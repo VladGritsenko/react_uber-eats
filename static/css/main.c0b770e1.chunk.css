@@ -1,0 +1,2 @@
+a,body,button,input{font-family:Roboto,sans-serif;font-size:16px;line-height:1.5}.restaurant-card{height:367px;width:100%;cursor:pointer}.restaurant-card__title{margin:12px 0 4px}.restaurant-card__img{height:70%;width:100%;object-fit:cover}.restaurant-card__categories{font-size:14px;color:#757575;margin-bottom:8px}.restaurant-card__eta-range{display:inline-block;padding:2px 8px;background-color:#f5f5f5}.restaurants-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(348px,1fr));grid-gap:40px 20px;gap:40px 20px}
+/*# sourceMappingURL=main.c0b770e1.chunk.css.map */
