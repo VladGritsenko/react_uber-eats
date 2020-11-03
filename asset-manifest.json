@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/react_uber-eats/static/css/main.bfb03dfc.chunk.css",
-    "main.js": "/react_uber-eats/static/js/main.0868d988.chunk.js",
-    "main.js.map": "/react_uber-eats/static/js/main.0868d988.chunk.js.map",
+    "main.css": "/react_uber-eats/static/css/main.fd9309bb.chunk.css",
+    "main.js": "/react_uber-eats/static/js/main.838e15a9.chunk.js",
+    "main.js.map": "/react_uber-eats/static/js/main.838e15a9.chunk.js.map",
     "runtime~main.js": "/react_uber-eats/static/js/runtime~main.bef14170.js",
     "runtime~main.js.map": "/react_uber-eats/static/js/runtime~main.bef14170.js.map",
-    "static/js/2.e9efa393.chunk.js": "/react_uber-eats/static/js/2.e9efa393.chunk.js",
-    "static/js/2.e9efa393.chunk.js.map": "/react_uber-eats/static/js/2.e9efa393.chunk.js.map",
+    "static/css/2.00a338ba.chunk.css": "/react_uber-eats/static/css/2.00a338ba.chunk.css",
+    "static/js/2.1314daee.chunk.js": "/react_uber-eats/static/js/2.1314daee.chunk.js",
+    "static/js/2.1314daee.chunk.js.map": "/react_uber-eats/static/js/2.1314daee.chunk.js.map",
     "index.html": "/react_uber-eats/index.html",
-    "precache-manifest.79db5eddd911d62493feeb760406556b.js": "/react_uber-eats/precache-manifest.79db5eddd911d62493feeb760406556b.js",
+    "precache-manifest.cb31f439df35d7f206ada066164c0afc.js": "/react_uber-eats/precache-manifest.cb31f439df35d7f206ada066164c0afc.js",
     "service-worker.js": "/react_uber-eats/service-worker.js",
-    "static/css/main.bfb03dfc.chunk.css.map": "/react_uber-eats/static/css/main.bfb03dfc.chunk.css.map"
+    "static/css/2.00a338ba.chunk.css.map": "/react_uber-eats/static/css/2.00a338ba.chunk.css.map",
+    "static/css/main.fd9309bb.chunk.css.map": "/react_uber-eats/static/css/main.fd9309bb.chunk.css.map",
+    "static/media/Logo.svg": "/react_uber-eats/static/media/Logo.74489cfb.svg",
+    "static/media/close-icon.svg": "/react_uber-eats/static/media/close-icon.a594ab60.svg",
+    "static/media/footer-logo.svg": "/react_uber-eats/static/media/footer-logo.899ed16b.svg"
   }
 }
